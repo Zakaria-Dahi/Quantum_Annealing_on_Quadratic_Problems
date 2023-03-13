@@ -1,4 +1,5 @@
 # Qucik Description
+**Programmer:shipit:**: Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
 ## About:
 This repository is used to renew automatically my account on D-Wave for using quantum annealers for solving quadratic unconstrained optimisation algorithms.
 ## Content:
